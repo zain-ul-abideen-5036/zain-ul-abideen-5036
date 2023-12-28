@@ -2,9 +2,9 @@
 - 👀 I’m interested in data science & machine learning.
 - 🌱 Currently in my 5th semester of BSCS, I am eager to delve deeper into the world of algorithms and analytics.
 - 💞️ Excited about collaboration, especially with MLSA events, where I can contribute my skills and learn from fellow enthusiasts.
-- 📫 Reach out to me on LinkedIn: [zain-ul-abideen3](www.linkedin.com/in/zain-ul-abideen3). Let's connect and explore the possibilities of data-driven innovation!
+- 📫 Reach out to me on LinkedIn: [zain-ul-abideen3](https://www.linkedin.com/in/zain-ul-abideen3/). Let's connect and explore the possibilities of data-driven innovation!
 
-- 
+
 
 
 
