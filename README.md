@@ -1,10 +1,16 @@
-# Hi, I'm Zain Ul Abideen! 🤖
+# Zain Ul Abideen 🤖
 *AI Explorer | Machine Learning Enthusiast | Data Alchemist*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zain-ul-abideen3)
 [![GitHub Followers](https://img.shields.io/github/followers/zain-ul-abideen-5036?label=Follow%20%40zain-ul-abideen-5036&style=social)](https://github.com/zain-ul-abideen-5036)
 
 ![Abstract Technology Profile LinkedIn Banner](https://github.com/user-attachments/assets/3a83cfcb-d8d3-401c-8b68-35999382cf43)
+
+- 👋 Hi, I’m @zain-ul-abideen-5036, a passionate student exploring the realms of Artificial Intelligence and Machine Learning.
+- 👀 I’m interested in Artificial Intelligence & Machine Learning.
+- 🌱 Currently in my 8th semester of BSCS, I am eager to delve deeper into the world of algorithms and analytics.
+- 💞️ Excited about collaboration, especially with MLSA events, where I can contribute my skills and learn from fellow enthusiasts.
+- 📫 Reach out to me on LinkedIn: [zain-ul-abideen3](https://www.linkedin.com/in/zain-ul-abideen3/). Let's connect and explore the possibilities of data-driven innovation!
 ---
 
 ## 🔭 Current Orbit
@@ -26,12 +32,6 @@
 🧠 ML Frameworks: TensorFlow | Scikit-learn
 ☁️ Deployment: Azure ML | Flask
 ```
-
-- 👋 Hi, I’m @zain-ul-abideen-5036, a passionate student exploring the realms of Artificial Intelligence and Machine Learning.
-- 👀 I’m interested in Artificial Intelligence & Machine Learning.
-- 🌱 Currently in my 8th semester of BSCS, I am eager to delve deeper into the world of algorithms and analytics.
-- 💞️ Excited about collaboration, especially with MLSA events, where I can contribute my skills and learn from fellow enthusiasts.
-- 📫 Reach out to me on LinkedIn: [zain-ul-abideen3](https://www.linkedin.com/in/zain-ul-abideen3/). Let's connect and explore the possibilities of data-driven innovation!
 ---
 
 ## 🌐 Collaboration Frontiers
@@ -58,6 +58,9 @@ while True:
     collaborate(open_source_projects)
 ```
 ---
+
+## 🕸️ Connect Across Dimensions
+<table align="center"> <tr> <td align="center" width="150"> <a href="mailto:abideen5036@gmail.com"> <img src="https://img.icons8.com/clouds/100/000000/gmail.png" width="60" alt="Gmail"/> <br> <sub><b>Digital Courier</b></sub> </a> </td> <td align="center" width="150"> <a href="https://medium.com/@zainulabideen5"> <img src="https://img.icons8.com/clouds/100/000000/medium-monogram.png" width="60" alt="Medium"/> <br> <sub><b>Thought Archive</b></sub> </a> </td> <td align="center" width="150"> <a href="https://leetcode.com/u/QFk5w8f22b/"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="60" alt="LeetCode"/> <br> <sub><b>Code Dojo</b></sub> </a> </td> </tr> <tr> <td align="center" width="150"> <a href="https://www.facebook.com/profile.php?id=61557016676124"> <img src="https://img.icons8.com/clouds/100/000000/facebook.png" width="60" alt="Facebook"/> <br> <sub><b>Social Canvas</b></sub> </a> </td> <td align="center" width="150"> <a href="https://www.instagram.com/zain.ul_abideen_"> <img src="https://img.icons8.com/clouds/100/000000/instagram.png" width="60" alt="Instagram"/> <br> <sub><b>Visual Chronicle</b></sub> </a> </td> <td align="center" width="150"> <a href="https://linkedin.com/in/zain-ul-abideen3"> <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="60" alt="LinkedIn"/> <br> <sub><b>Professional Orbit</b></sub> </a> </td> </tr> </table>
 
 
 
