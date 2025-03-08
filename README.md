@@ -59,12 +59,16 @@ while True:
 ```
 ---
 
-## ## 🌍 Social Cosmos
+## 🌍 Social Cosmos
 
-```diff
-+ "Connection is the currency of innovation" - Let's mint some digital gold
-```
-<table align="center"> <tr> <td align="center" width="150"> <a href="[Your Discord URL]"> <img src="https://img.icons8.com/clouds/100/discord-logo.png" width="60" alt="Discord"/> <br> <sub><b>Tech Haven</b></sub> </a> </td> <td align="center" width="150"> <a href="https://www.facebook.com/profile.php?id=61557016676124"> <img src="https://img.icons8.com/clouds/100/facebook-new.png" width="60" alt="Facebook"/> <br> <sub><b>Community Canvas</b></sub> </a> </td> <td align="center" width="150"> <a href="https://www.instagram.com/zain.ul_abideen_"> <img src="https://img.icons8.com/clouds/100/instagram.png" width="60" alt="Instagram"/> <br> <sub><b>Visual Diary</b></sub> </a> </td> </tr> <tr> <td align="center" width="150"> <a href="https://linkedin.com/in/zain-ul-abideen3"> <img src="https://img.icons8.com/clouds/100/linkedin.png" width="60" alt="LinkedIn"/> <br> <sub><b>Pro Network</b></sub> </a> </td> <td align="center" width="150"> <a href="https://medium.com/@zainulabideen5"> <img src="https://img.icons8.com/clouds/100/medium-logo.png" width="60" alt="Medium"/> <br> <sub><b>Ideas Vault</b></sub> </a> </td> <td align="center" width="150"> <a href="[Your Stack Overflow URL]"> <img src="https://img.icons8.com/clouds/100/stackoverflow.png" width="60" alt="Stack Overflow"/> <br> <sub><b>Code Forum</b></sub> </a> </td> </tr> </table>
+"Connection is the currency of innovation" - Let's mint some digital gold
+
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abideen5036@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zain-ul-abideen3)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/QFk5w8f22b/)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@zainulabideen5)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557016676124&mibextid=ZbWKwL)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/zain.ul_abideen_?igsh=dHdkemsya2k5cThn)
 
 
 
