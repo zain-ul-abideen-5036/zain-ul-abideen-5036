@@ -27,7 +27,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-Intermediate-0F9D58?style=flat-square)
 
 ### Toolbox
-```scss
+```
 📊 Data Science: NumPy | Pandas | Matplotlib
 🧠 ML Frameworks: TensorFlow | Scikit-learn
 ☁️ Deployment: Azure ML | Flask
