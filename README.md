@@ -28,9 +28,9 @@
 
 ### Toolbox
 ```
-📊 Data Science: NumPy | Pandas | Matplotlib
-🧠 ML Frameworks: TensorFlow | Scikit-learn
-☁️ Deployment: Azure ML | Flask
+- 📊 Data Science: NumPy | Pandas | Matplotlib
+- 🧠 ML Frameworks: TensorFlow | Scikit-learn
+- ☁️ Deployment: Azure ML | Flask
 ```
 ---
 
