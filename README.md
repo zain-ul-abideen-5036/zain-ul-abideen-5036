@@ -1,5 +1,9 @@
 # Zain Ul Abideen 🤖
 *AI Explorer | Machine Learning Enthusiast | Data Alchemist*
+<p align="left">
+   <strong>Profile sync:</strong> <span id="last-update"><!--AUTO_UPDATE--></span>
+</p>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zain-ul-abideen3)
 [![GitHub Followers](https://img.shields.io/github/followers/zain-ul-abideen-5036?label=Follow%20%40zain-ul-abideen-5036&style=social)](https://github.com/zain-ul-abideen-5036)
