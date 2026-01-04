@@ -14,10 +14,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update date in README
+      - name: Update profile sync date safely
         run: |
           DATE=$(date +"%Y-%m-%d")
-          sed -i "s/<!--AUTO_UPDATE-->/$DATE/" README.md
+
+          if grep -q "<!--AUTO_UPDATE-->" README.md; then
+            sed -i "s|<!--AUTO_UPDATE-->.*|<!--AUTO_UPDATE--> $DATE|" README.md
+          else
+            echo "AUTO_UPDATE placeholder not found. Skipping update."
+          fi
 
       - name: Commit and push changes
         run: |
