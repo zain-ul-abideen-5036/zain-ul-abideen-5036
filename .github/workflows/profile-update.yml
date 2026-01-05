@@ -3,7 +3,8 @@ name: Daily Profile README Update
 on:
   workflow_dispatch:
   schedule:
-   - cron: "*/5 * * * *"
+    # Runs every day at 6:00 AM Pakistan Time (01:00 UTC)
+    - cron: "0 1 * * *"
 
 permissions:
   contents: write
