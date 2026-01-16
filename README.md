@@ -62,6 +62,12 @@ while True:
 ```
 ---
 
+## ✍️ Dev Quote (Daily Inspiration)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 ## 🌍 Social Cosmos
 
 "Connection is the currency of innovation" - Let's mint some digital gold
