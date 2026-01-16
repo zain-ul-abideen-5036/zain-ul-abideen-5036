@@ -62,6 +62,12 @@ while True:
 ```
 ---
 
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zain-ul-abideen-5036&theme=radical&no-frame=true&no-bg=true)
+
+---
+
 ## ✍️ Dev Quote (Daily Inspiration)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
