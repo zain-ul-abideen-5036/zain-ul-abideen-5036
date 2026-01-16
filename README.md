@@ -5,6 +5,18 @@
   </a> 🤖
 </h1>
 
+![Abstract Technology Profile Banner](https://github.com/user-attachments/assets/3a83cfcb-d8d3-401c-8b68-35999382cf43)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zain-ul-abideen-5036&label=Profile%20views&color=0e75b6&style=flat" alt="zain-ul-abideen-5036" />
+  <a href="https://www.linkedin.com/in/zain-ul-abideen3">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/zain-ul-abideen-5036">
+    <img src="https://img.shields.io/github/followers/zain-ul-abideen-5036?label=Follow%20@zain-ul-abideen-5036&style=social" />
+  </a>
+</p>
+
+
 <p align="center">
   Turning data into intelligence and ideas into intelligent systems 🚀
 </p>
@@ -18,9 +30,7 @@
   <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-01-16
 </p>
 
-![Abstract Technology Profile Banner](https://github.com/user-attachments/assets/3a83cfcb-d8d3-401c-8b68-35999382cf43)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zain-ul-abideen3)
-[![GitHub Followers](https://img.shields.io/github/followers/zain-ul-abideen-5036?label=Follow%20@zain-ul-abideen-5036&style=social)](https://github.com/zain-ul-abideen-5036)
+
 
 ---
 
