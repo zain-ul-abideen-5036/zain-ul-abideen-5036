@@ -24,8 +24,8 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "Zain Ul Abideen"
+          git config user.email "142427359+zain-ul-abideen-5036@users.noreply.github.com"
           git add README.md
           git commit -m "chore: daily profile sync" || echo "No changes to commit"
           git push
