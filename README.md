@@ -7,6 +7,10 @@
 
 ![Abstract Technology Profile Banner](https://github.com/user-attachments/assets/3a83cfcb-d8d3-401c-8b68-35999382cf43)
 <p align="center">
+  Turning data into intelligence and ideas into intelligent systems 🚀
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=zain-ul-abideen-5036&label=Profile%20views&color=0e75b6&style=flat" alt="zain-ul-abideen-5036" />
   <a href="https://www.linkedin.com/in/zain-ul-abideen3">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=flat-square&logo=linkedin" />
@@ -17,9 +21,7 @@
 </p>
 
 
-<p align="center">
-  Turning data into intelligence and ideas into intelligent systems 🚀
-</p>
+
 
 <h3 align="center">
   AI Explorer | Machine Learning Enthusiast | Data Alchemist
