@@ -115,6 +115,7 @@ while True:
 ---
 
 ## Code Cycle:
+<p align="center">
 <a href="https://www.youtube.com/shorts/GAlKHqcnKTw">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 </a>
@@ -124,12 +125,19 @@ while True:
 <a href="https://www.youtube.com/shorts/GAlKHqcnKTw">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 </a>
+</p>
 
 ---
 
 ## ✍️ Dev Quote (Daily Inspiration)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=A%20game%20is%20a%20series%20of%20interesting%20choices.&author=Sid%20Meier" width="550px"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=A%20delayed%20game%20is%20eventually%20good%2C%20but%20a%20rushed%20game%20is%20forever%20bad.&author=Shigeru%20Miyamoto" width="550px"/>
+  <!-- The third quote previously had encoding issues, try explicit UTF-8 and simpler percent-encoding: -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=90%25%20of%20what%20is%20considered%20'impossible'%20is%2C%20in%20fact%2C%20possible.%20The%20other%2010%25%20will%20become%20possible%20with%20the%20passage%20of%20time%20and%20technology.&author=Hideo%20Kojima" width="550px"/>
+
+</div>
 
 ---
 
