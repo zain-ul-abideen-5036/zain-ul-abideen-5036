@@ -114,10 +114,16 @@ while True:
 ```
 ---
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zain-ul-abideen-5036&theme=radical&no-frame=true&no-bg=true)
-
+## Code Cycle:
+<a href="https://www.youtube.com/shorts/GAlKHqcnKTw">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+</a>
+<a href="https://www.youtube.com/shorts/FDoaXLRRwKw">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+</a>
+<a href="https://www.youtube.com/shorts/GAlKHqcnKTw">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+</a>
 ---
 
 ## ✍️ Dev Quote (Daily Inspiration)
@@ -138,7 +144,10 @@ while True:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/zain.ul_abideen_?igsh=dHdkemsya2k5cThn)
 
 ---
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?typingSpeed=50&pause=2500&lines=AI+%26+ML+Engineer+in+progress" />
+</p>
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!---
