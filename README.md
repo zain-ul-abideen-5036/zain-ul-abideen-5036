@@ -132,12 +132,18 @@ while True:
 ## ✍️ Dev Quote (Daily Inspiration)
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=A%20game%20is%20a%20series%20of%20interesting%20choices.&author=Sid%20Meier" width="550px"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=A%20delayed%20game%20is%20eventually%20good%2C%20but%20a%20rushed%20game%20is%20forever%20bad.&author=Shigeru%20Miyamoto" width="550px"/>
-  <!-- The third quote previously had encoding issues, try explicit UTF-8 and simpler percent-encoding: -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=90%25%20of%20what%20is%20considered%20'impossible'%20is%2C%20in%20fact%2C%20possible.%20The%20other%2010%25%20will%20become%20possible%20with%20the%20passage%20of%20time%20and%20technology.&author=Hideo%20Kojima" width="550px"/>
+
+  <!-- Inspiration Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Success%20is%20built%20on%20curiosity%2C%20consistency%2C%20and%20the%20courage%20to%20learn%20continuously.&author=Personal%20Philosophy" width="550px"/>
+
+  <!-- AI / ML Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Artificial%20Intelligence%20is%20not%20about%20replacing%20humans%2C%20it%20is%20about%20amplifying%20human%20potential%20through%20data%20and%20learning.&author=AI%20Mindset" width="550px"/>
+
+  <!-- Innovation / Tech Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Innovation%20happens%20when%20experimentation%20meets%20persistence%20and%20real-world%20problem%20solving.&author=Engineering%20Philosophy" width="550px"/>
 
 </div>
+
 
 ---
 
