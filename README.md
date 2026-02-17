@@ -104,7 +104,12 @@ Right now, I’m orbiting the AI/ML universe, focused on building and deploying 
 ![](https://nirzak-streak-stats.vercel.app/?user=zain-ul-abideen-5036&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zain-ul-abideen-5036&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<p align="left">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zain-ul-abideen-5036&show_icons=true&theme=tokyonight" />
+</p>
+
 <a href="https://github.com/zain-ul-abideen-5036/github-readme-activity-graph"><img alt="Zain's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=zain-ul-abideen-5036&bg_color=1a1b27&color=36b7a9&line=70a5fd&point=bf91f3&hide_border=flase&custom_title=Zain's%20Activity%20Graph"/></a>
+
 
 
 ---
