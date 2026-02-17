@@ -1,11 +1,21 @@
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> there, I'm 
-  <a href="https://www.linkedin.com/in/zain-ul-abideen3" style="color:#58a6ff; text-decoration:none;">
-    Zain Ul Abideen
-  </a> 🤖
-</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c92d2,50:243B55,100:141E30&height=220&section=header&text=Hi%20there,%20I'm%20Zain%20Ul%20Abideen&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+
+<h3 align="center">
+  AI Explorer | Machine Learning Enthusiast | Data Alchemist
+</h3>
+
+---
 
 ![Abstract Technology Profile Banner](https://github.com/user-attachments/assets/3a83cfcb-d8d3-401c-8b68-35999382cf43)
+
+<p align="center">
+  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-02-17
+</p>
+
 <p align="center">
   Turning data into intelligence and ideas into intelligent systems 🚀
 </p>
@@ -23,14 +33,9 @@
 
 
 
-<h3 align="center">
-  AI Explorer | Machine Learning Enthusiast | Data Alchemist
-</h3>
 
 
-<p align="center">
-  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-02-17
-</p>
+
 
 
 
@@ -159,11 +164,10 @@ while True:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/zain.ul_abideen_?igsh=dHdkemsya2k5cThn)
 
 ---
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?typingSpeed=50&pause=2500&lines=AI+%26+ML+Engineer+in+progress" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c92d2,50:243B55,100:141E30&height=220&section=footer&text=AI%20/%20ML%20Engineer%20in%20Progress&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
 </p>
-<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!---
 zain-ul-abideen-5036/zain-ul-abideen-5036 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
