@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-02-16
+  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-02-17
 </p>
 
 
