@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Zain%20Ul%20Abideen&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Building%20Intelligence%20%7C%20One%20Model%20at%20a%20Time&descSize=18&descAlignY=62&descColor=a0aec0"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Zain%20Ul%20Abideen&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20and%20Machine%20Learning%20%7C%20Engineering%20Intelligence&descSize=18&descAlignY=62&descColor=a0aec0"/>
 </p>
 
 <p align="center">
