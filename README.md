@@ -51,21 +51,18 @@ Right now, I'm orbiting the AI/ML universe, focused on building and deploying ma
       <strong>Senior MLSA</strong><br/>
       <sub>Microsoft Learn Student Ambassador</sub><br/>
       <sub>Organizing AI events · Bridging students<br/>with Microsoft's AI ecosystem globally</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Microsoft%20Learn%20Student%20Ambassador-Senior-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
     </td>
     <td align="center" width="260">
       <img src="https://img.shields.io/badge/-Microsoft%20for%20Startups-FFB900?style=for-the-badge&logo=microsoft&logoColor=black"/><br/><br/>
       <strong>Gold Scout</strong><br/>
       <sub>Microsoft for Startups Program</sub><br/>
       <sub>Identifying & connecting high-potential<br/>startups with Microsoft resources</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Microsoft%20for%20Startups-Gold%20Scout-FFB900?style=for-the-badge&logo=microsoft&logoColor=white" />
     </td>
     <td align="center" width="260">
       <img src="https://img.shields.io/badge/-Digitech-6C63FF?style=for-the-badge&logo=googleclassroom&logoColor=white"/><br/><br/>
       <strong>Lead AI / ML Instructor</strong><br/>
       <sub>Digitech Institute</sub><br/>
       <sub>Teaching machine learning, deep learning<br/>& applied AI to the next generation</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Lead%20AI%2FML%20Instructor-Digitech-6C63FF?style=for-the-badge&logo=googleclassroom&logoColor=white" />
     </td>
   </tr>
 </table>
