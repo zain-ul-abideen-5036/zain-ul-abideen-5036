@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-05-23
+  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-05-24
 </p>
 
 <p align="center">
