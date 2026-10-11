@@ -1,254 +1,336 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:3A2A14&height=260&section=header&text=Zain%20Ul%20Abideen&fontSize=64&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=ML%20%26%20Backend%20Engineer&descSize=20&descAlignY=58&descColor=D9A55B" alt="Zain Ul Abideen, ML and Backend Engineer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Zain%20Ul%20Abideen&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20and%20Machine%20Learning%20%7C%20Engineering%20Intelligence&descSize=18&descAlignY=62&descColor=a0aec0"/>
 </p>
 
 <p align="center">
-  <a href="https://zainulabideen-dev.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=D9A55B&center=true&vCenter=true&width=760&height=34&lines=Software+that+refuses+to+guess.;Deterministic+where+it+matters.+AI+where+it+earns+its+place.;2%2C280+automated+tests+across+four+shipped+projects.;Open+to+full-time+roles%2C+freelance+and+research." alt="Software that refuses to guess." />
+  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-10-11
+</p>
+
+<p align="center">
+  <em>Transforming raw data into production-ready intelligence systems</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zain-ul-abideen-5036&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/zain-ul-abideen3">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/zain-ul-abideen-5036">
+    <img src="https://img.shields.io/github/followers/zain-ul-abideen-5036?label=Follow&style=for-the-badge&logo=github&color=181717" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://zainulabideen-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-zainulabideen--dev-D9A55B?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=161B22" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/zain-ul-abideen3"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@zainulabideen5"><img src="https://img.shields.io/badge/Medium-Articles-E6EDF3?style=for-the-badge&logo=medium&logoColor=E6EDF3&labelColor=161B22&color=30363D" alt="Medium" /></a>
-  <a href="mailto:zain.ul.abideen0877@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Email" /></a>
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-available-3FB950?style=flat-square&labelColor=161B22" alt="Available" />
-  <img src="https://img.shields.io/badge/based%20in-Pakistan%20%C2%B7%20PKT%20(UTC%2B5)-8B949E?style=flat-square&labelColor=161B22" alt="Based in Pakistan" />
-  <img src="https://komarev.com/ghpvc/?username=zain-ul-abideen-5036&label=profile%20views&color=D9A55B&style=flat-square&labelColor=161B22" alt="Profile views" />
-  <br />
-  <sub>Profile sync:
-  <!--AUTO_UPDATE--> 2026-10-11
-  </sub>
-</p>
+### Who Am I
 
-<br />
+<img align="right" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" />
 
-## `$ whoami`
+In a world driven by data, I've always been fascinated by how machines can learn, predict, and solve problems. From experimenting with Python scripts to building deep learning models, every project feels like a small adventure in turning ideas into intelligent systems.
 
-I build machine learning systems and the backends that carry them into production. Most of my work starts from one observation: **a wrong number looks exactly like a right one on the page.** So my projects compute what can be computed, test what can go wrong, and only let a language model do the parts it is actually good at.
+I enjoy diving into complex datasets, uncovering patterns, and designing solutions that are both elegant and impactful. My curiosity doesn't stop at algorithms. I love seeing my models come to life in the cloud, handling real-world data, and delivering results at scale. Every line of code, every trained model, is a step toward transforming raw data into meaningful insights.
 
-```python
-class ZainUlAbideen:
-    role       = "ML & Backend Engineer"
-    based_in   = "Pakistan  ·  PKT (UTC+5)"
-    education  = "BSc Computer Science, University of Central Punjab (2021 to 2025)"
+---
 
-    now = [
-        "AI & Machine Learning Lead  @ Digitech Offerings",
-        "Freelance Software Engineer @ Wizmen Systems",
-    ]
+### Current Orbit
 
-    builds    = ["ML pipelines", "APIs & backends", "full-stack products", "local-first AI agents"]
-    believes  = "If the model can't prove a figure, the figure doesn't ship."
-    open_to   = ["full-time roles", "freelance", "research collaborations"]
+Right now, I'm orbiting the AI/ML universe, focused on building and deploying machine learning pipelines that solve real problems. Azure, Docker, and cloud deployment tools are my instruments as I turn experimental models into production-ready applications. I'm constantly exploring neural networks, predictive analytics, and AI-driven solutions, blending creativity with technical rigor to craft tools that make data work smarter.
+
+---
+
+## Roles & Recognition
+
+<table align="center">
+  <tr>
+    <td align="center" width="260">
+      <img src="https://img.shields.io/badge/-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/><br/><br/>
+      <strong>Senior MLSA</strong><br/>
+      <sub>Microsoft Learn Student Ambassador</sub><br/>
+      <sub>Organizing AI events · Bridging students<br/>with Microsoft's AI ecosystem globally</sub><br/><br/>
+    </td>
+    <td align="center" width="260">
+      <img src="https://img.shields.io/badge/-Microsoft%20for%20Startups-FFB900?style=for-the-badge&logo=microsoft&logoColor=black"/><br/><br/>
+      <strong>Gold Scout</strong><br/>
+      <sub>Microsoft for Startups Program</sub><br/>
+      <sub>Identifying & connecting high-potential<br/>startups with Microsoft resources</sub><br/><br/>
+    </td>
+    <td align="center" width="260">
+      <img src="https://img.shields.io/badge/-Digitech-6C63FF?style=for-the-badge&logo=googleclassroom&logoColor=white"/><br/><br/>
+      <strong>Lead AI / ML Instructor</strong><br/>
+      <sub>Digitech Institute</sub><br/>
+      <sub>Teaching machine learning, deep learning<br/>& applied AI to the next generation</sub><br/><br/>
+    </td>
+  </tr>
+</table>
+
+---
+
+
+## Technical Arsenal
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Core Competencies**
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-Advanced-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![DL](https://img.shields.io/badge/Deep_Learning-Intermediate-0F9D58?style=flat-square&logo=pytorch&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+</td>
+<td valign="top" width="33%">
+
+**AI / ML Stack**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**Data & Visualization**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Cloud & Infrastructure**
+
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+**Dev Tools**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Collaboration Frontiers
+
+```yaml
+Open To:
+  - MLSA event partnerships and Microsoft AI community initiatives
+  - Research collaborations in AI ethics, fairness, and responsible ML
+  - Hackathon mentorship and team leadership roles
+  - Open-source contributions in ML tooling and pipelines
+  - Technical writing and knowledge sharing in AI/ML domains
 ```
 
-<br />
+---
 
-## Featured work
+## The AI/ML Roadmap I Live By
 
-<table>
+```mermaid
+graph LR
+    A[Raw Data] -->|Clean & Transform| B[Feature Engineering]
+    B -->|Model Selection| C[Training Pipeline]
+    C -->|Evaluate & Tune| D[Validated Model]
+    D -->|Containerize| E[Docker Image]
+    E -->|Deploy| F[Azure / AWS Cloud]
+    F -->|Monitor & Iterate| C
+    style A fill:#1a1b27,color:#6C63FF,stroke:#6C63FF
+    style F fill:#1a1b27,color:#6C63FF,stroke:#6C63FF
+```
+
+---
+
+## Open Source Manifesto
+
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://locora-chi.vercel.app"><img src="https://zainulabideen-dev.vercel.app/assets/work/locora-960.webp" alt="Locora reviewer console" width="100%" /></a>
-      <h3>Locora</h3>
-      <sub><b>MISSING-PERSON PLATFORM</b> &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; 🟢 Live</sub>
-      <p>Missing and found reports are reviewed by a person, then linked. Software ranks candidates and states its reasons in words, never a fake "94% match". A human makes every decision that reaches a family.</p>
-      <p><b>290 tests</b> &nbsp;·&nbsp; 0 reports published without a human</p>
-      <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Playwright-161B22?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Playwright" />
-      <p><a href="https://locora-chi.vercel.app"><b>Live app ↗</b></a> &nbsp;·&nbsp; <a href="https://zainulabideen-dev.vercel.app/work/locora">Case study</a></p>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/>
+      <strong>Experiment Boldly</strong><br/>
+      <sub>Every failed model is data too</sub>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://rolefit-topaz.vercel.app"><img src="https://zainulabideen-dev.vercel.app/assets/work/rolefit-960.webp" alt="RoleFit resume analysis" width="100%" /></a>
-      <h3>RoleFit</h3>
-      <sub><b>ATS RESUME OPTIMIZER</b> &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; 🟢 Live</sub>
-      <p>An AI resume optimizer that refuses to lie for you. A deterministic seven-dimension score, and every rewrite is checked against the original so no new skill, metric or inflated claim gets through.</p>
-      <p><b>1,003 tests</b> &nbsp;·&nbsp; 95.2% domain coverage</p>
-      <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Drizzle-161B22?style=flat-square&logo=drizzle&logoColor=C5F74F" alt="Drizzle" />
-      <img src="https://img.shields.io/badge/Vitest-161B22?style=flat-square&logo=vitest&logoColor=6E9F18" alt="Vitest" />
-      <p><a href="https://rolefit-topaz.vercel.app"><b>Live app ↗</b></a> &nbsp;·&nbsp; <a href="https://zainulabideen-dev.vercel.app/work/rolefit">Case study</a></p>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
+      <strong>Ship Consistently</strong><br/>
+      <sub>Code that can't deploy doesn't exist</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://insight-flow-ai-iota.vercel.app"><img src="https://raw.githubusercontent.com/zain-ul-abideen-5036/InsightFlow-AI/main/docs/screenshots/landing.png" alt="InsightFlow AI landing page" width="100%" /></a>
-      <h3>InsightFlow AI</h3>
-      <sub><b>AI BUSINESS ANALYST</b> &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; 🟢 Live</sub>
-      <p>Upload a spreadsheet of orders and see what changed, where it came from and what to check next. A deterministic engine computes every figure; the model only phrases them, and anything it invents is thrown away.</p>
-      <p><b>300 tests</b> &nbsp;·&nbsp; zero model-generated numbers</p>
-      <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-      <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-      <p><a href="https://insight-flow-ai-iota.vercel.app"><b>Live app ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/zain-ul-abideen-5036/InsightFlow-AI">Repository</a></p>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>
+      <strong>Share Openly</strong><br/>
+      <sub>The best ideas multiply when shared</sub>
     </td>
-    <td width="50%" valign="top">
-      <img src="https://zainulabideen-dev.vercel.app/assets/work/jarvis-960.webp" alt="JARVIS command centre" width="100%" />
-      <h3>JARVIS</h3>
-      <sub><b>LOCAL-FIRST VOICE AGENT</b> &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; 🟠 Local-first</sub>
-      <p>A Windows voice assistant where wake word, speech recognition, LLM and speech synthesis all run on the laptop. A deterministic intent grammar sits in front of the model, so factual answers come from tools that measure, not from a model that guesses.</p>
-      <p><b>687 tests</b> &nbsp;·&nbsp; 0 of 15 factual questions reach the LLM</p>
-      <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-      <img src="https://img.shields.io/badge/Ollama-161B22?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-      <img src="https://img.shields.io/badge/Whisper-161B22?style=flat-square&logo=openai&logoColor=white" alt="Whisper" />
-      <img src="https://img.shields.io/badge/Windows%20Hello-161B22?style=flat-square&logo=windows&logoColor=0078D4" alt="Windows Hello" />
-      <p><sub>Runs on one paired machine, by design. No hosted demo, no public endpoint.</sub></p>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=azure" width="48"/><br/>
+      <strong>Scale Intelligently</strong><br/>
+      <sub>Cloud is the lab of the modern engineer</sub>
     </td>
   </tr>
 </table>
 
-<details>
-  <summary><b>More projects</b> &nbsp;<sub>(CKD Prediction System · RequirementAI · Momentum)</sub></summary>
-  <br />
+---
 
-| Project | What it does | Stack | Link |
-|:--|:--|:--|:--|
-| **CKD Prediction System** <br /><sub>Final-year project · 2025</sub> | Classifies kidney CT scans into Normal, Cyst, Tumor and Stone with a CNN, and shows the full confidence spread so an unsure prediction looks unsure. | TensorFlow · Flask · MySQL | [Live ↗](https://ckd-prediction-system-six.vercel.app) |
-| **RequirementAI** <br /><sub>In development · 2026</sub> | A realtime voice agent that runs the first requirements interview and generates briefs, PRDs and user stories traceable to what the client said. | Next.js · Realtime voice · PostgreSQL | [Preview ↗](https://requirementai.vercel.app) |
-| **Momentum** <br /><sub>Live · 2026</sub> | A habit and goal tracker built so recording a day takes seconds. Streaks, goals and analytics all derive from one indexed table. | Next.js · Prisma · PostgreSQL | [Live ↗](https://momentum-tracker-self.vercel.app) |
+## Featured Work Domains
 
-</details>
-
-<br />
-
-## ML research, reproduced
-
-Small, reproducible case studies on the ways ML evaluation quietly lies.
-
-| | Study | Finding |
-|:-:|:--|:--|
-| 🔍 | [**gradcam-shortcut-demo**](https://github.com/zain-ul-abideen-5036/gradcam-shortcut-demo) | Grad-CAM catches localized shortcuts down to 2×2 pixels, but a diffuse shortcut produces a heatmap indistinguishable from a correct model. |
-| 🧪 | [**har-leakage-demo**](https://github.com/zain-ul-abideen-5036/har-leakage-demo) · [article](https://medium.com/@zainulabideen5/the-data-leakage-bug-that-makes-your-model-look-30-points-better-than-it-is-0160407cdaee) | Subject-level leakage in activity recognition: one line of code, a 30-point accuracy swing. |
-| ⚖️ | [**accuracy-paradox-demo**](https://github.com/zain-ul-abideen-5036/accuracy-paradox-demo) · [article](https://medium.com/@zainulabideen5/your-model-has-98-accuracy-and-is-completely-useless-c1ca77dc5d8e) | Why 98% accuracy can be useless on imbalanced data, with precision, recall, F1 and honest fixes. |
-
-<br />
-
-## How I build
-
-<table>
+<table align="center">
   <tr>
-    <td width="25%" valign="top">
-      <b>Numbers come from code</b><br />
-      <sub>Totals, scores and facts are computed deterministically. A model phrases them; it never invents them.</sub>
+    <td align="center" width="300">
+      <h3>Computer Vision</h3>
+      <img src="https://img.shields.io/badge/Object%20Detection-OpenCV%20%7C%20YOLO-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Image%20Classification-CNNs%20%7C%20Transfer%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/><br/>
+      <sub>Building systems that teach machines to see</sub>
     </td>
-    <td width="25%" valign="top">
-      <b>Tests that attack</b><br />
-      <sub>Suites that try to break the guards, not just confirm the happy path. 2,280 tests across four projects.</sub>
+    <td align="center" width="300">
+      <h3>Predictive Analytics</h3>
+      <img src="https://img.shields.io/badge/Regression%20%7C%20Classification-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-Pandas%20%7C%20statsmodels-150458?style=flat-square&logo=pandas&logoColor=white"/><br/>
+      <sub>Turning historical data into future decisions</sub>
     </td>
-    <td width="25%" valign="top">
-      <b>Private by default</b><br />
-      <sub>Sensitive fields are never selected, not selected and hidden. Local-first wherever the data is personal.</sub>
-    </td>
-    <td width="25%" valign="top">
-      <b>AI where it earns it</b><br />
-      <sub>Rule-based first, a model only where it adds something a rule cannot. Every product still works without one.</sub>
+    <td align="center" width="300">
+      <h3>MLOps & Deployment</h3>
+      <img src="https://img.shields.io/badge/Pipeline%20Automation-MLflow%20%7C%20Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Cloud%20Deployment-Azure%20%7C%20AWS-0072C6?style=flat-square&logo=microsoftazure&logoColor=white"/><br/>
+      <sub>From experiment to production at scale</sub>
     </td>
   </tr>
 </table>
 
-<br />
+---
 
-## Experience
-
-| | Role | Where | When |
-|:-:|:--|:--|:--|
-| 🟢 | **AI & Machine Learning Lead** <br /><sub>Designed and delivered an 8-week AI/ML programme for 40 students, and guided their ML projects.</sub> | Digitech Offerings | Apr 2026 → now |
-| 🟢 | **Freelance Software Engineer** <br /><sub>Rebuilt the Wizmen Systems corporate site in React 19, TypeScript, Tailwind 4 and Vite, prerendered on Vercel.</sub> | Wizmen Systems | Sep 2025 → now |
-| ⚪ | **Machine Learning Intern** <br /><sub>Preprocessing, feature engineering and honest evaluation across scikit-learn, TensorFlow and Keras.</sub> | AI Community of Pakistan | Jul → Sep 2024 |
-| ⚪ | **Web Development Intern** <br /><sub>Front ends for live client work, including interfaces that display model predictions.</sub> | Qwerty Experts | Aug → Sep 2024 |
-| ⚪ | **Data Science Intern** <br /><sub>Cleaning, exploring and modelling real, messy datasets with Pandas and scikit-learn.</sub> | Glowingsoft Technologies | Jul → Aug 2023 |
-| 🎓 | **BSc Computer Science** <br /><sub>Focus on AI, machine learning and deep learning. Final-year project: CKD Prediction System.</sub> | University of Central Punjab | 2021 → 2025 |
-
-<br />
-
-## Community & recognition
-
-<p>
-  <img src="https://img.shields.io/badge/Gold-Microsoft%20Learn%20Student%20Ambassador-D9A55B?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=161B22" alt="Gold Microsoft Learn Student Ambassador" />
-  <img src="https://img.shields.io/badge/Gold%20Scout-Microsoft%20for%20Startups-FFB900?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=161B22" alt="Gold Scout, Microsoft for Startups" />
-</p>
-
-- 🏅 **Ambassadors Projects Team Lead**, Microsoft MVP and Student Ambassadors Communities (2025)
-- ☁️ **Cloud Skills Challenge Event Host**, Microsoft Learn Student Ambassadors (2024)
-- 📈 MLSA milestones: Official and Alpha (2023), Beta (2024), Gold (2025)
-
-<br />
-
-## Toolkit
-
-<table>
-  <tr>
-    <td width="22%"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c&theme=dark&perline=10" alt="Python, TypeScript, JavaScript, C++, C" /></td>
-  </tr>
-  <tr>
-    <td><b>Machine learning</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=10" alt="PyTorch, TensorFlow, scikit-learn, OpenCV" /><br />
-      <sub>Keras · Pandas · NumPy · Ollama · Whisper · Groq · RAG pipelines</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & data</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,mysql,sqlite,prisma&theme=dark&perline=10" alt="FastAPI, Flask, Node.js, PostgreSQL, MySQL, SQLite, Prisma" /><br />
-      <sub>SQLAlchemy · Alembic · Drizzle · REST APIs</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite&theme=dark&perline=10" alt="Next.js, React, Tailwind CSS, Vite" /></td>
-  </tr>
-  <tr>
-    <td><b>Cloud & delivery</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,azure,aws,vercel,githubactions,git&theme=dark&perline=10" alt="Docker, Azure, AWS, Vercel, GitHub Actions, Git" /><br />
-      <sub>Pytest · Vitest · Playwright · axe-core</sub>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## GitHub activity
+## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zain-ul-abideen-5036&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=D9A55B&icon_color=D9A55B&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-ul-abideen-5036&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=D9A55B&text_color=C9D1D9" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zain-ul-abideen-5036&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=zain-ul-abideen-5036&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zain-ul-abideen-5036&hide_border=true&background=0D1117&ring=D9A55B&fire=D9A55B&currStreakLabel=D9A55B&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=30363D&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
-</p>
-
-<br />
-
-## Let's talk
-
-<p align="center">
-  <b>Building something where the numbers have to be right?</b><br />
-  <sub>I reply within 24 hours.</sub>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-ul-abideen-5036&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
 <p align="center">
-  <a href="mailto:zain.ul.abideen0877@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/zain-ul-abideen3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://zainulabideen-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://medium.com/@zainulabideen5"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://leetcode.com/u/QFk5w8f22b/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.instagram.com/zain.ul_abideen_?igsh=dHdkemsya2k5cThn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/profile.php?id=61557016676124&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph/?username=zain-ul-abideen-5036&bg_color=1a1b27&color=6C63FF&line=70a5fd&point=bf91f3&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph"/>
+</p>
+
+---
+
+## Frequency Signature
+
+> *Every engineer has a unique signal. Here's mine.*
+
+```yaml
+# ── SIGNAL PROFILE ──────────────────────────────────────────────
+  handle     : "Zain Ul Abideen"
+  origin     : "Pakistan 🇵🇰"
+  signal     : "AI & Machine Learning Research"
+
+  transmitting:
+    - "Neural architectures that generalize"
+    - "ML pipelines built for production, not just notebooks"
+    - "Cloud-native AI: containerized, monitored, scalable"
+    - "Explainable models — because black boxes aren't good enough"
+
+  frequency  : "Always learning. Always shipping."
+  bandwidth  : "Deep focus + open collaboration"
+  wavelength : "Where research meets real-world impact"
+# ────────────────────────────────────────────────────────────────
+```
+
+---
+
+## Code Cycle
+
+<p align="center">
+<a href="https://www.youtube.com/shorts/GAlKHqcnKTw">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+</a>
+<a href="https://www.youtube.com/shorts/FDoaXLRRwKw">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+</a>
+<a href="https://www.youtube.com/shorts/GAlKHqcnKTw">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+</a>
+</p>
+
+---
+
+## Thoughts That Shape My Work
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Success%20is%20built%20on%20curiosity%2C%20consistency%2C%20and%20the%20courage%20to%20learn%20continuously.&author=Personal%20Philosophy" width="550px"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Artificial%20Intelligence%20is%20not%20about%20replacing%20humans%2C%20it%20is%20about%20amplifying%20human%20potential%20through%20data%20and%20learning.&author=AI%20Mindset" width="550px"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Innovation%20happens%20when%20experimentation%20meets%20persistence%20and%20real-world%20problem%20solving.&author=Engineering%20Philosophy" width="550px"/>
+</div>
+
+---
+
+
+## Connect
+
+<p align="center">
+  <em>"The best engineers are those who collaborate, communicate, and compound their knowledge."</em>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A2A14,45:161B22,100:0D1117&height=140&section=footer" alt="" width="100%" />
+  <a href="mailto:abideen5036@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/zain-ul-abideen3">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/QFk5w8f22b/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@zainulabideen5">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/profile.php?id=61557016676124&mibextid=ZbWKwL">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/zain.ul_abideen_?igsh=dHdkemsya2k5cThn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=footer&text=AI%20%2F%20ML%20Engineer%20in%20Progress&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!---
+zain-ul-abideen-5036/zain-ul-abideen-5036 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
