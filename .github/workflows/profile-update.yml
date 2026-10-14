@@ -17,10 +17,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README date
-        run: |
-          DATE=$(TZ=Asia/Karachi date +"%Y-%m-%d")
-          sed -i "s/<!--AUTO_UPDATE-->.*/<!--AUTO_UPDATE--> $DATE/" README.md
+      - name: Update date, daily quote and stats card health
+        run: python3 .github/scripts/daily_update.py
 
       - name: Commit and push if changed
         run: |
