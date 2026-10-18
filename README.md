@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-10-17
+  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-10-18
 </p>
 
 <p align="center">
@@ -370,7 +370,7 @@ graph LR
 
 <div align="center">
 <!--QUOTE_START-->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Use%20AI%20where%20it%20earns%20its%20place%2C%20and%20a%20simple%20rule%20everywhere%20else.&author=AI%20Mindset" width="550px"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=98%25%20accuracy%20can%20still%20be%20useless.%20Always%20ask%20what%20the%20metric%20is%20hiding.&author=ML%20Principle" width="550px"/>
 <!--QUOTE_END-->
 </div>
 
