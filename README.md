@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-10-19
+  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-10-20
 </p>
 
 <p align="center">
@@ -370,7 +370,7 @@ graph LR
 
 <div align="center">
 <!--QUOTE_START-->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Always%20learning.%20Always%20shipping.&author=Personal%20Philosophy" width="550px"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Software%20should%20narrow%20the%20options.%20People%20should%20make%20the%20decisions%20that%20matter.&author=AI%20Mindset" width="550px"/>
 <!--QUOTE_END-->
 </div>
 
