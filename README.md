@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-10-22
+  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-10-23
 </p>
 
 <p align="center">
@@ -370,7 +370,7 @@ graph LR
 
 <div align="center">
 <!--QUOTE_START-->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Let%20code%20compute%20the%20facts.%20Let%20the%20model%20phrase%20them.&author=AI%20Mindset" width="550px"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=A%20test%20that%20only%20checks%20the%20happy%20path%20proves%20the%20feature%20works.%20A%20test%20that%20attacks%20proves%20the%20guard%20does.&author=Engineering%20Philosophy" width="550px"/>
 <!--QUOTE_END-->
 </div>
 
