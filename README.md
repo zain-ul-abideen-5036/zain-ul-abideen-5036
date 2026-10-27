@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-10-26
+  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-10-27
 </p>
 
 <p align="center">
@@ -437,7 +437,7 @@ graph LR
 
 <div align="center">
 <!--QUOTE_START-->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Innovation%20happens%20when%20experimentation%20meets%20persistence%20and%20real-world%20problem%20solving.&author=Engineering%20Philosophy" width="550px"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=A%20model%20that%20reports%20its%20uncertainty%20honestly%20is%20worth%20more%20than%20one%20extra%20point%20of%20accuracy.&author=ML%20Principle" width="550px"/>
 <!--QUOTE_END-->
 </div>
 
