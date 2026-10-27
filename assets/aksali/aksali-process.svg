@@ -1,0 +1,45 @@
+<svg width="1000" height="132" viewBox="0 0 1000 132" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Aksali process: Understand, Scope, Build, Verify, Hand over">
+  <style>
+    .num { font: 600 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; letter-spacing: 2px; fill: #E8B04A; }
+    .step { font: 400 20px Georgia, 'Times New Roman', serif; fill: #F8F4F0; }
+    .note { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #F8F4F0; fill-opacity: .6; }
+  </style>
+  <rect width="1000" height="132" rx="14" fill="#3B0D11"/>
+  <rect x="0.5" y="0.5" width="999" height="131" rx="13.5" stroke="#E8B04A" stroke-opacity=".3"/>
+  <line x1="100" y1="46" x2="900" y2="46" stroke="#E8B04A" stroke-opacity=".35" stroke-dasharray="2 6"/>
+  <g class="fade" style="animation-delay:0.00s">
+    <circle cx="100" cy="46" r="7" fill="#3B0D11" stroke="#E8B04A" stroke-width="2"/>
+    <circle cx="100" cy="46" r="2.5" fill="#E8B04A"/>
+    <text class="num" x="100" y="24" text-anchor="middle">01</text>
+    <text class="step" x="100" y="84" text-anchor="middle">Understand</text>
+    <text class="note" x="100" y="106" text-anchor="middle">the real problem</text>
+  </g>
+  <g class="fade" style="animation-delay:0.18s">
+    <circle cx="300" cy="46" r="7" fill="#3B0D11" stroke="#E8B04A" stroke-width="2"/>
+    <circle cx="300" cy="46" r="2.5" fill="#E8B04A"/>
+    <text class="num" x="300" y="24" text-anchor="middle">02</text>
+    <text class="step" x="300" y="84" text-anchor="middle">Scope</text>
+    <text class="note" x="300" y="106" text-anchor="middle">only what matters</text>
+  </g>
+  <g class="fade" style="animation-delay:0.36s">
+    <circle cx="500" cy="46" r="7" fill="#3B0D11" stroke="#E8B04A" stroke-width="2"/>
+    <circle cx="500" cy="46" r="2.5" fill="#E8B04A"/>
+    <text class="num" x="500" y="24" text-anchor="middle">03</text>
+    <text class="step" x="500" y="84" text-anchor="middle">Build</text>
+    <text class="note" x="500" y="106" text-anchor="middle">the simplest thing that works</text>
+  </g>
+  <g class="fade" style="animation-delay:0.54s">
+    <circle cx="700" cy="46" r="7" fill="#3B0D11" stroke="#E8B04A" stroke-width="2"/>
+    <circle cx="700" cy="46" r="2.5" fill="#E8B04A"/>
+    <text class="num" x="700" y="24" text-anchor="middle">04</text>
+    <text class="step" x="700" y="84" text-anchor="middle">Verify</text>
+    <text class="note" x="700" y="106" text-anchor="middle">measured, not promised</text>
+  </g>
+  <g class="fade" style="animation-delay:0.72s">
+    <circle cx="900" cy="46" r="7" fill="#3B0D11" stroke="#E8B04A" stroke-width="2"/>
+    <circle cx="900" cy="46" r="2.5" fill="#E8B04A"/>
+    <text class="num" x="900" y="24" text-anchor="middle">05</text>
+    <text class="step" x="900" y="84" text-anchor="middle">Hand over</text>
+    <text class="note" x="900" y="106" text-anchor="middle">code, tests and docs</text>
+  </g>
+</svg>

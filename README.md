@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Zain%20Ul%20Abideen&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=ML%20and%20Backend%20Engineer%20%7C%20Systems%20That%20Refuse%20to%20Guess&descSize=18&descAlignY=62&descColor=a0aec0"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Zain%20Ul%20Abideen&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20and%20CEO%2C%20Aksali%20Technologies%20%7C%20ML%20and%20Backend%20Engineer&descSize=18&descAlignY=62&descColor=a0aec0"/>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <em>Building machine learning systems and backends where every number is computed, tested and true</em>
+  <em>Building Aksali Technologies, where AI and software are measured, not promised</em>
 </p>
 
 <p align="center">
@@ -24,6 +24,16 @@
   <a href="https://github.com/zain-ul-abideen-5036">
     <img src="https://img.shields.io/github/followers/zain-ul-abideen-5036?label=Follow&style=for-the-badge&logo=github&color=181717" />
   </a>
+  &nbsp;
+  <a href="https://aksali.com">
+    <img src="https://img.shields.io/badge/Aksali-Founder%20%26%20CEO-E8B04A?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDQgMTAwIj48cGF0aCBmaWxsPSIjRjhGNEYwIiBkPSJNNDYgMCBMNTkgMCBMNTkgMTAwIEw0NiAxMDAgWiBNNDQgMCBMNTkgMCBMMTUgMTAwIEwwIDEwMCBaIE04OSAwIEwxMDMuMyAwIEw1OSA2MiBMNTkgNDIgWiBNNjggNDkuNSBMMTA0IDEwMCBMOTAgMTAwIEw1OSA1Ni42IFoiLz48cmVjdCB4PSIzMy40IiB5PSI2MiIgd2lkdGg9IjkiIGhlaWdodD0iOSIgZmlsbD0iI0U4QjA0QSIvPjwvc3ZnPg==&labelColor=3B0D11" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://aksali.com">
+    <img width="100%" src="assets/aksali/aksali-founder.svg" alt="Zain Ul Abideen, Founder and CEO of Aksali Technologies. Genuine engineering." />
+  </a>
 </p>
 
 ---
@@ -32,15 +42,71 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" />
 
-I'm an ML and backend engineer and a Computer Science graduate of the University of Central Punjab. I build machine learning systems and the backends that carry them into production, from data pipelines and trained models to APIs, databases and the product a person actually uses.
+I'm the founder and CEO of **Aksali Technologies**, and an ML and backend engineer by training with a Computer Science degree from the University of Central Punjab. I build machine learning systems and the software around them, from data pipelines and trained models to APIs, databases and the product a person actually uses, and I've been a technical and machine learning engineering collaborator on multiple MSc-level research projects.
 
-Most of my work starts from one observation: **a wrong number looks exactly like a right one on the page.** So I let code compute what can be computed, verify what I build before I trust it, and use a language model only where it earns its place. That is how I ended up building an analytics assistant that never invents a figure, and a resume tool that refuses to invent a skill you don't have.
+Most of my work starts from one observation: **a wrong number looks exactly like a right one on the page.** So I let code compute what can be computed, verify what I build before I trust it, and use a language model only where it earns its place. That discipline is the one Aksali is built on.
 
 ---
 
 ### Current Orbit
 
-Right now, I'm leading the AI and machine learning track at Digitech Offerings, where I designed and delivered an eight-week AI/ML programme for forty students, while working as a freelance software engineer building web platforms, backends and AI features for clients. The rest of my time goes into products that put correctness first: InsightFlow AI analyses business data with a deterministic engine, RoleFit rewrites resumes without fabricating a single claim, and JARVIS runs a full voice assistant entirely on one laptop. In between, I publish reproducible studies on how machine learning evaluation quietly misleads, and I'm open to full-time roles, freelance work and research collaborations.
+Right now, I'm building Aksali Technologies into an engineering company that founders and teams can trust with the systems they depend on, working with every client directly from the first conversation to the hand-over. Day to day, I'm continuously designing and shipping AI systems, custom software, backends and automation, and holding each one to the same standard before it reaches anyone: tested, measured and documented. Alongside the company, I keep sharpening the craft underneath it, from how models are evaluated and where they quietly fail to how reliable backends are designed and where AI genuinely earns its place, and I write publicly about what I learn.
+
+---
+
+## Aksali Technologies
+
+<p align="center">
+  <em>"A demo impresses a room. A system survives Monday. I started Aksali to build the second kind."</em>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="300">
+      <br/>
+      <a href="https://aksali.com/services/ai-machine-learning"><img src="https://img.shields.io/badge/01-AI%20and%20Machine%20Learning-3B0D11?style=for-the-badge&labelColor=E8B04A" /></a><br/><br/>
+      <sub>Tasks defined, baselined, evaluated<br/>and deployed with honest results</sub><br/><br/>
+    </td>
+    <td align="center" valign="top" width="300">
+      <br/>
+      <a href="https://aksali.com/services/software-engineering"><img src="https://img.shields.io/badge/02-Software%20Engineering-3B0D11?style=for-the-badge&labelColor=E8B04A" /></a><br/><br/>
+      <sub>Custom software built to survive<br/>real use, not just a demo</sub><br/><br/>
+    </td>
+    <td align="center" valign="top" width="300">
+      <br/>
+      <a href="https://aksali.com/services/ui-ux-design"><img src="https://img.shields.io/badge/03-UI%2FUX%20Design-3B0D11?style=for-the-badge&labelColor=E8B04A" /></a><br/><br/>
+      <sub>Interfaces people understand<br/>on the first try</sub><br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="300">
+      <br/>
+      <a href="https://aksali.com/services/backend-data-systems"><img src="https://img.shields.io/badge/04-Backend%20and%20Data%20Systems-3B0D11?style=for-the-badge&labelColor=E8B04A" /></a><br/><br/>
+      <sub>APIs, databases and data pipelines<br/>built to stay correct</sub><br/><br/>
+    </td>
+    <td align="center" valign="top" width="300">
+      <br/>
+      <a href="https://aksali.com/services/cloud-infrastructure"><img src="https://img.shields.io/badge/05-Cloud%20and%20Infrastructure-3B0D11?style=for-the-badge&labelColor=E8B04A" /></a><br/><br/>
+      <sub>Deployments that are measured,<br/>monitored and documented</sub><br/><br/>
+    </td>
+    <td align="center" valign="top" width="300">
+      <br/>
+      <a href="https://aksali.com/services/automation-workflows"><img src="https://img.shields.io/badge/06-Automation%20and%20Workflows-3B0D11?style=for-the-badge&labelColor=E8B04A" /></a><br/><br/>
+      <sub>Repetitive work moved from people<br/>to dependable systems</sub><br/><br/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img width="100%" src="assets/aksali/aksali-process.svg" alt="How Aksali works: Understand, Scope, Build, Verify, Hand over" />
+</p>
+
+<p align="center">
+  <a href="https://aksali.com"><img src="https://img.shields.io/badge/Website-aksali.com-3B0D11?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDQgMTAwIj48cGF0aCBmaWxsPSIjRjhGNEYwIiBkPSJNNDYgMCBMNTkgMCBMNTkgMTAwIEw0NiAxMDAgWiBNNDQgMCBMNTkgMCBMMTUgMTAwIEwwIDEwMCBaIE04OSAwIEwxMDMuMyAwIEw1OSA2MiBMNTkgNDIgWiBNNjggNDkuNSBMMTA0IDEwMCBMOTAgMTAwIEw1OSA1Ni42IFoiLz48cmVjdCB4PSIzMy40IiB5PSI2MiIgd2lkdGg9IjkiIGhlaWdodD0iOSIgZmlsbD0iI0U4QjA0QSIvPjwvc3ZnPg==&labelColor=E8B04A" /></a>
+  <a href="https://www.linkedin.com/company/aksali-technologies"><img src="https://img.shields.io/badge/LinkedIn-Aksali%20Technologies-3B0D11?style=for-the-badge&logo=linkedin&logoColor=E8B04A" /></a>
+  <a href="https://github.com/Aksali-Technologies"><img src="https://img.shields.io/badge/GitHub-Aksali--Technologies-3B0D11?style=for-the-badge&logo=github&logoColor=E8B04A" /></a>
+  <a href="mailto:hello@aksali.com"><img src="https://img.shields.io/badge/Start%20a%20project-hello%40aksali.com-3B0D11?style=for-the-badge&logo=gmail&logoColor=E8B04A" /></a>
+</p>
 
 ---
 
@@ -48,6 +114,13 @@ Right now, I'm leading the AI and machine learning track at Digitech Offerings, 
 
 <table align="center">
   <tr>
+    <td align="center" valign="top" width="300">
+      <br/>
+      <img src="https://img.shields.io/badge/-Aksali%20Technologies-3B0D11?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDQgMTAwIj48cGF0aCBmaWxsPSIjRjhGNEYwIiBkPSJNNDYgMCBMNTkgMCBMNTkgMTAwIEw0NiAxMDAgWiBNNDQgMCBMNTkgMCBMMTUgMTAwIEwwIDEwMCBaIE04OSAwIEwxMDMuMyAwIEw1OSA2MiBMNTkgNDIgWiBNNjggNDkuNSBMMTA0IDEwMCBMOTAgMTAwIEw1OSA1Ni42IFoiLz48cmVjdCB4PSIzMy40IiB5PSI2MiIgd2lkdGg9IjkiIGhlaWdodD0iOSIgZmlsbD0iI0U4QjA0QSIvPjwvc3ZnPg=="/><br/><br/>
+      <strong>Founder &amp; CEO</strong><br/>
+      <sub><b>Aksali Technologies</b></sub><br/>
+      <sub>Sets the company's direction and engineering<br/>standard, and works directly with every client</sub><br/><br/>
+    </td>
     <td align="center" valign="top" width="300">
       <br/>
       <img src="https://img.shields.io/badge/-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/><br/><br/>
@@ -62,6 +135,8 @@ Right now, I'm leading the AI and machine learning track at Digitech Offerings, 
       <sub><b>Microsoft for Startups Program</b></sub><br/>
       <sub>Identifying and connecting high-potential<br/>startups with Microsoft resources</sub><br/><br/>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="300">
       <br/>
       <img src="https://img.shields.io/badge/-MVP%20%26%20MLSA%20Communities-0078D4?style=for-the-badge&logo=microsoftteams&logoColor=white"/><br/><br/>
@@ -69,21 +144,12 @@ Right now, I'm leading the AI and machine learning track at Digitech Offerings, 
       <sub><b>Awarded March 2025</b></sub><br/>
       <sub>Led a team of students building and deploying<br/>AI projects on Microsoft technologies</sub><br/><br/>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="300">
       <br/>
       <img src="https://img.shields.io/badge/-University%20of%20Central%20Punjab-1E3A8A?style=for-the-badge&logo=bookstack&logoColor=white"/><br/><br/>
       <strong>BSc Computer Science</strong><br/>
       <sub><b>Nov 2021 to Jul 2025</b></sub><br/>
       <sub>Focus on AI, ML and deep learning. Final-year<br/>project: CKD Prediction System</sub><br/><br/>
-    </td>
-    <td align="center" valign="top" width="300">
-      <br/>
-      <img src="https://img.shields.io/badge/-Freelance-0E7490?style=for-the-badge&logo=codesandbox&logoColor=white"/><br/><br/>
-      <strong>Freelance Software Engineer</strong><br/>
-      <sub><b>Sep 2025 to Present</b></sub><br/>
-      <sub>Web platforms, backends and AI features<br/>delivered end to end for clients</sub><br/><br/>
     </td>
     <td align="center" valign="top" width="300">
       <br/>
@@ -334,9 +400,10 @@ graph LR
 # ── SIGNAL PROFILE ──────────────────────────────────────────────
   handle     : "Zain Ul Abideen"
   origin     : "Pakistan 🇵🇰"
-  signal     : "ML & Backend Engineering"
+  signal     : "Founder & CEO, Aksali Technologies"
 
   transmitting:
+    - "Genuine engineering: measured, not promised"
     - "AI products where code computes the facts and models phrase them"
     - "Backends and APIs built for production, not just notebooks"
     - "Local-first AI that keeps personal data on the device"
@@ -392,6 +459,10 @@ graph LR
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
+  <a href="https://aksali.com">
+    <img src="https://img.shields.io/badge/Aksali-3B0D11?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDQgMTAwIj48cGF0aCBmaWxsPSIjRjhGNEYwIiBkPSJNNDYgMCBMNTkgMCBMNTkgMTAwIEw0NiAxMDAgWiBNNDQgMCBMNTkgMCBMMTUgMTAwIEwwIDEwMCBaIE04OSAwIEwxMDMuMyAwIEw1OSA2MiBMNTkgNDIgWiBNNjggNDkuNSBMMTA0IDEwMCBMOTAgMTAwIEw1OSA1Ni42IFoiLz48cmVjdCB4PSIzMy40IiB5PSI2MiIgd2lkdGg9IjkiIGhlaWdodD0iOSIgZmlsbD0iI0U4QjA0QSIvPjwvc3ZnPg==" />
+  </a>
+  &nbsp;
   <a href="https://zainulabideen-dev.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -416,7 +487,7 @@ graph LR
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=footer&text=Engineering%20AI%20You%20Can%20Trust&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=footer&text=Genuine%20Engineering.%20Built%20to%20Last.&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

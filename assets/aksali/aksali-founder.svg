@@ -1,0 +1,55 @@
+<svg width="1000" height="300" viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Zain Ul Abideen, Founder and CEO of Aksali Technologies. Genuine engineering.">
+  <style>
+    .eyebrow { font: 600 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; letter-spacing: 4px; fill: #E8B04A; }
+    .name { font: 400 46px Georgia, 'Times New Roman', serif; fill: #F8F4F0; }
+    .tag { font: italic 400 22px Georgia, 'Times New Roman', serif; fill: #E8B04A; }
+    .body { font: 400 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #F8F4F0; fill-opacity: .72; }
+    .quote { font: italic 400 19px Georgia, 'Times New Roman', serif; fill: #F8F4F0; }
+    .small { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #F8F4F0; fill-opacity: .6; }
+    .strip { font: 600 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; letter-spacing: 2.5px; fill: #F8F4F0; fill-opacity: .55; }
+    .url { font: 600 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; letter-spacing: 2.5px; fill: #E8B04A; }
+    .cursor { animation: blink 1.6s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#F8F4F0" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E8B04A" stop-opacity=".16"/>
+      <stop offset=".55" stop-color="#E8B04A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="300" rx="18" fill="#3B0D11"/>
+  <rect width="1000" height="300" rx="18" fill="url(#grid)"/>
+  <rect width="1000" height="300" rx="18" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="999" height="299" rx="17.5" stroke="#E8B04A" stroke-opacity=".35"/>
+
+  <g transform="translate(56 64)">
+    <rect width="118" height="118" rx="22" fill="#F8F4F0" fill-opacity=".06" stroke="#E8B04A" stroke-opacity=".45"/>
+    <g transform="translate(19 24) scale(0.77)">
+      <path fill="#F8F4F0" d="M46 0 L59 0 L59 100 L46 100 Z M44 0 L59 0 L15 100 L0 100 Z M89 0 L103.3 0 L59 62 L59 42 Z M68 49.5 L104 100 L90 100 L59 56.6 Z"/>
+      <rect class="cursor" x="33.4" y="62" width="9" height="9" fill="#E8B04A"/>
+    </g>
+  </g>
+
+  <g transform="translate(208 0)">
+    <text class="eyebrow fade" x="0" y="84">FOUNDER &amp; CEO</text>
+    <text class="name fade d1" x="0" y="136">Aksali Technologies</text>
+    <text class="tag fade d2" x="0" y="172">Genuine engineering.</text>
+    <text class="body fade d3" x="0" y="204">AI systems, custom software, backends, cloud and automation,</text>
+    <text class="body fade d3" x="0" y="226">built carefully and handed over with the evidence that they work.</text>
+  </g>
+
+  <g transform="translate(694 82)"><g class="fade d2">
+    <rect x="0" y="0" width="2" height="128" fill="#E8B04A"/>
+    <text class="quote" x="24" y="34">A demo impresses a room.</text>
+    <text class="quote" x="24" y="68">A system survives Monday.</text>
+    <text class="small" x="24" y="104">I started Aksali to build</text>
+    <text class="small" x="24" y="124">the second kind.</text>
+  </g></g>
+
+  <line x1="56" y1="252" x2="944" y2="252" stroke="#F8F4F0" stroke-opacity=".12"/>
+  <text class="strip" x="56" y="278">AI &amp; ML  ·  SOFTWARE  ·  UI/UX  ·  BACKEND &amp; DATA  ·  CLOUD  ·  AUTOMATION</text>
+  <text class="url" x="944" y="278" text-anchor="end">AKSALI.COM  ↗</text>
+</svg>
