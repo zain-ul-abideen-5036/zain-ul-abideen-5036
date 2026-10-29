@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-10-28
+  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-10-29
 </p>
 
 <p align="center">
@@ -382,7 +382,7 @@ graph LR
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-ul-abideen-5036&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <!--HIDDEN <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-ul-abideen-5036&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" /> HIDDEN-->
 </p>
 
 <p align="center">
@@ -437,7 +437,7 @@ graph LR
 
 <div align="center">
 <!--QUOTE_START-->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=If%20it%20cannot%20be%20deployed%2C%20it%20does%20not%20exist.%20If%20it%20cannot%20be%20checked%2C%20it%20should%20not%20be%20claimed.&author=Engineering%20Philosophy" width="550px"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Most%20of%20machine%20learning%20happens%20before%20a%20model%20is%20ever%20fitted.&author=ML%20Principle" width="550px"/>
 <!--QUOTE_END-->
 </div>
 
