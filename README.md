@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-11-09
+  <strong>Profile sync:</strong> <!--AUTO_UPDATE--> 2026-11-10
 </p>
 
 <p align="center">
@@ -378,7 +378,7 @@ graph LR
 <!--STATS_START-->
 <p align="center">
   <!--HIDDEN <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zain-ul-abideen-5036&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" /> HIDDEN-->
-  <!--HIDDEN <img width="49%" src="https://streak-stats.demolab.com?user=zain-ul-abideen-5036&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> HIDDEN-->
+  <img width="49%" src="https://streak-stats.demolab.com?user=zain-ul-abideen-5036&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
@@ -437,7 +437,7 @@ graph LR
 
 <div align="center">
 <!--QUOTE_START-->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Innovation%20happens%20when%20experimentation%20meets%20persistence%20and%20real-world%20problem%20solving.&author=Engineering%20Philosophy" width="550px"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=A%20model%20that%20reports%20its%20uncertainty%20honestly%20is%20worth%20more%20than%20one%20extra%20point%20of%20accuracy.&author=ML%20Principle" width="550px"/>
 <!--QUOTE_END-->
 </div>
 
